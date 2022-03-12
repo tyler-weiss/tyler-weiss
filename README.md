@@ -1,4 +1,4 @@
-<img alt="and here we are again" src="https://github.com/tyler-weiss/tyler-weiss/blob/main/Idk.gif?raw=true" width="60%">
+<img alt="and here we are again" src="https://github.com/tyler-weiss/tyler-weiss/blob/main/blinky.gif?raw=true" width="100%">
 <!--
 **tyler-weiss/tyler-weiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
